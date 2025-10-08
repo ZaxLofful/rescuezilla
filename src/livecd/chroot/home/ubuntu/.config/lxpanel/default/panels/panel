@@ -82,8 +82,6 @@ Plugin {
     DischargingColor1=#ffee00
     DischargingColor2=#d9ca00
     HideIfNoBattery=1
-    AlarmCommand=notify-send "Battery low" --icon=battery-caution
-    AlarmTime=5
     BorderWidth=1
     Size=8
     ShowExtendedInformation=0
